@@ -17,32 +17,28 @@ This repository contains Python files implementing various machine learning and 
 
 
 ### **Individual Traditional Methods**
-1. **`traditional-individual-1.ipynb`**  
-2. **`traditional-individual-1.ipynb`**  
-3. **`traditional-individual-1.ipynb`**  
-4. **`traditional-individual-1.ipynb`**  
-5. **`traditional-individual-1.ipynb`**  
-6. **`traditional-individual-1.ipynb`**  
-
+1. **`2_Phishing-Ensemble-Traditional-Individual-COMPILED.ipynb`**  
 
 ### **Traditional Ensemble Models**
-1. **`traditional_ensemble_1.py`**  
-2. **`traditional_ensemble_2.py`**  
+1. **`3_Phishing-Ensemble-Traditional-Bagging.ipynb`**  
+2. **`4_Phishing-Adaboost Traditional.ipynb`**
+3. **`5_Phishing-Individual Model-Xgboost Traditional.ipynb`**
+4. **`6_Phishing-Custom Boosting.ipynb`**
 
 
 ### **Individual Deep Learning Methods**
-1. **`14_Phishing-MLP.ipynb`**  
-2. **`15_Phishing-CNN.ipynb`**  
-3. **`16_Phishing-LSTM.ipynb`**  
+1. **`7_Phishing-MLP.ipynb`**  
+2. **`8_Phishing-CNN.ipynb`**  
+3. **`9_Phishing-LSTM.ipynb`**  
 
 
 ### **Deep Learning Ensemble Models**
-1. **`18_Phishing-Ensemble-Hard-Voting-3-Deep-Learning.ipynb`**  
-2. **`18_Phishing-Ensemble-Hard-Voting-3-Deep-Learning.ipynb`**  
+1. **`10_Phishing-Ensemble-Stacking-3-Deep-Learning.ipynb`**  
+2. **`11_Phishing-Ensemble-Hard-Voting-3-Deep-Learning.ipynb`**  
 
 
 ### **Hybrid Ensemble Model**
-1. **`19_Phishing-Ensemble-Deep-and-Trad Ensemble_all.ipynb`**  
+1. **`12_Phishing-Ensemble-Deep-and-Trad Ensemble_all.ipynb`**  
 
 
 ## Dependencies
