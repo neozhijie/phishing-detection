@@ -60,6 +60,13 @@ Ensure the following Python packages are installed before running any scripts:
 Use the following command to install all dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn tensorflow keras keras-tuner scikeras xgboost
+```
+
+OR
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Performance Evaluation
 Each model script includes the following evaluation metrics: Accuracy, Precision, Recall, f1 score
