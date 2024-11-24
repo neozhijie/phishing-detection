@@ -50,7 +50,7 @@ Ensure the following Python packages are installed before running any scripts:
 - `seaborn`  
 - `scikit-learn`  
 - `imbalanced-learn`  
-- `tensorflow` or `pytorch`  
+- `tensorflow`
 - `keras`  
 - `keras-tuner`  
 - `scikeras`  
